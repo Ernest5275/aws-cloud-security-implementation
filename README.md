@@ -1,5 +1,5 @@
 # AWS Cloud Security Implementation ☁️🔐
-**Academic Project, ECPI University** | Cloud Security | AWS
+**Academic Project, ECPI University** | Cloud Security | AWS 
 
 ## 📋 Overview
 In this project, I implemented security monitoring and auditing in an AWS environment. I configured AWS-native security services for continuous visibility into account activity and threat detection, then wrote incident response procedures following AWS best practices.
